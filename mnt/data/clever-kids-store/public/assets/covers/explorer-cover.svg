@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" rx="24" fill="#3d356b"/>
+  <rect x="38" y="38" width="824" height="1124" rx="18" fill="none" stroke="#e9dcae" stroke-width="4"/>
+  <circle cx="750" cy="150" r="66" fill="#e9dcae"/>
+  <circle cx="750" cy="150" r="42" fill="#3d356b"/>
+  <circle cx="750" cy="150" r="18" fill="#e9dcae"/>
+  <text x="80" y="112" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#e9dcae" letter-spacing="7">CLEVER KIDS</text>
+  <text x="80" y="248" font-family="Georgia, serif" font-size="98" font-weight="700" fill="#fffdf7">EXPLORER</text>
+  <text x="80" y="348" font-family="Georgia, serif" font-size="98" font-weight="700" fill="#fffdf7">EDITION</text>
+  <text x="80" y="408" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#ece9fb" letter-spacing="2">PUZZLES · GAMES · MYSTERIES · CREATIVE CHALLENGES</text>
+  <g transform="translate(112 508)">
+    <circle cx="240" cy="220" r="160" fill="#ece9fb"/>
+    <circle cx="240" cy="175" r="78" fill="#efbd9e"/>
+    <path d="M178 160q62-82 124 0" fill="#302645"/>
+    <path d="M153 218q87-28 174 0v125H153z" fill="#e6b84a"/>
+    <path d="M308 210l92-54 36 22-112 78z" fill="#e87561"/>
+    <circle cx="258" cy="190" r="15" fill="#3d356b"/>
+    <path d="M230 227q20 18 40 0" stroke="#3d356b" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M430 78l18-32 18 32 36 18-36 18-18 32-18-32-36-18z" fill="#e6b84a"/>
+    <circle cx="96" cy="86" r="18" fill="#e87561"/>
+  </g>
+  <text x="80" y="1018" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" fill="#fffdf7">50 PAGES OF PUZZLES &amp; DISCOVERY</text>
+  <text x="80" y="1070" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#fffdf7">Ages 6–10  ·  Printable PDF</text>
+  <rect x="680" y="1018" width="136" height="74" rx="37" fill="#e9dcae"/>
+  <text x="748" y="1067" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#3d356b">AGES</text>
+  <text x="748" y="1092" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#3d356b">6–10</text>
+</svg>

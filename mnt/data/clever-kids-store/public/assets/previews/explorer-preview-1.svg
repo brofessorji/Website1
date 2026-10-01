@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1273" viewBox="0 0 900 1273">
+<rect width="900" height="1273" fill="#fbf8f0"/><rect x="48" y="48" width="804" height="1177" rx="12" fill="#fff" stroke="#252828" stroke-width="3"/>
+<text x="90" y="115" font-family="Georgia" font-size="46" font-weight="700" fill="#252828">Explorer Challenge</text>
+<text x="90" y="165" font-family="Arial" font-size="26" fill="#616464">Decode the trail. Then circle the hidden answer.</text>
+<rect x="90" y="220" width="720" height="260" rx="10" fill="#efe9f7" stroke="#3d356b" stroke-width="3"/>
+<text x="130" y="280" font-family="Arial" font-size="28" font-weight="700" fill="#3d356b">CLUE GRID</text>
+<g font-family="Arial" font-size="28" fill="#252828">
+<text x="145" y="345">★ = A</text><text x="330" y="345">● = E</text><text x="515" y="345">△ = I</text><text x="700" y="345">□ = O</text>
+<text x="145" y="410">✦ = S</text><text x="330" y="410">◆ = T</text><text x="515" y="410">☾ = R</text><text x="700" y="410">◇ = N</text></g>
+<text x="90" y="555" font-family="Arial" font-size="31" font-weight="700" fill="#252828">Secret message:</text>
+<text x="90" y="620" font-family="Arial" font-size="37" fill="#3d356b">◆ ✦ ★ ☾ ●</text>
+<line x1="90" y1="680" x2="810" y2="680" stroke="#c9c9c9" stroke-width="4"/>
+<text x="90" y="760" font-family="Arial" font-size="30" fill="#252828">Write what the symbols say:</text>
+<line x1="90" y1="825" x2="810" y2="825" stroke="#555" stroke-width="3"/>
+<text x="90" y="1030" font-family="Arial" font-size="24" fill="#6f7070">Sample preview page • Explorer Edition</text>
+</svg>
